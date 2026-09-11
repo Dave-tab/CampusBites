@@ -1,0 +1,6 @@
+{
+  "name": "CampusBites Food Ordering Platform",
+  "description": "Campus food ordering platform for students, verified vendors, campus delivery riders, and administrators featuring multi-vendor cart, real-time order tracking, OTP delivery verification, and rider earnings wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
